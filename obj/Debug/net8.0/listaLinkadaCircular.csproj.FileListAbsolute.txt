@@ -1,0 +1,14 @@
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkadaCircular\bin\Debug\net8.0\listaLinkadaCircular.exe
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkadaCircular\bin\Debug\net8.0\listaLinkadaCircular.deps.json
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkadaCircular\bin\Debug\net8.0\listaLinkadaCircular.runtimeconfig.json
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkadaCircular\bin\Debug\net8.0\listaLinkadaCircular.dll
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkadaCircular\bin\Debug\net8.0\listaLinkadaCircular.pdb
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkadaCircular\obj\Debug\net8.0\listaLinkadaCircular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkadaCircular\obj\Debug\net8.0\listaLinkadaCircular.AssemblyInfoInputs.cache
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkadaCircular\obj\Debug\net8.0\listaLinkadaCircular.AssemblyInfo.cs
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkadaCircular\obj\Debug\net8.0\listaLinkadaCircular.csproj.CoreCompileInputs.cache
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkadaCircular\obj\Debug\net8.0\listaLinkadaCircular.dll
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkadaCircular\obj\Debug\net8.0\refint\listaLinkadaCircular.dll
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkadaCircular\obj\Debug\net8.0\listaLinkadaCircular.pdb
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkadaCircular\obj\Debug\net8.0\listaLinkadaCircular.genruntimeconfig.cache
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkadaCircular\obj\Debug\net8.0\ref\listaLinkadaCircular.dll
